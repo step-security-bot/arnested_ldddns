@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Mon, 20 Apr 2026 21:43:46 +0000
+Label: ldddns.arnested.dk
+Origin: Arne Jørgensen
+MD5Sum:
+ 4635021f38e1b004880392a443dcd32f             1815 Packages
+ fe76574421884009f3b8708a3894c45b              860 Packages.gz
+ 2eca4fd03aa6eb8cc65238937efaf957               88 Release
+SHA1:
+ 7b2867144bc5b1904b865dc1ae0a64b998251519             1815 Packages
+ d29042332bb107c67beef154bf8cdf98aa1d25a0              860 Packages.gz
+ 35657bea7e8d645afc8a0e263d84f5dd71319da0               88 Release
+SHA256:
+ cba09252627ec1b1d641a9d714d322ae9244ce4cd70ed5adf813967facf11376             1815 Packages
+ 5ff534c697236f0f94c3c6b5109a8b8537888a3b024feaf6c59981c09edade4b              860 Packages.gz
+ a841a726ae7bf19d927016ee0aa99d93e667fa3eea6e8bd3245287c31091e4d6               88 Release
+SHA512:
+ 17ec91ac41b2be46c5c3ab8cc4481df7653b0dcf753c5dfd3ecc629a1ff804fc4b0d03d6b730c93156ae5bd854a2145486830feb378f5994d4bff435d87f4bfc             1815 Packages
+ cc4332972b3557bf593c443d39697b9b83ce9f8162d9863575450471a26ed1656918317641fb96fd9764513616a0910a5bc3b81d44916cd393f93647ecf91aa6              860 Packages.gz
+ 1fa4b374f851dc8034d9d5c346ffaec1ef7d1016203d432b9c3bed2eee37a45a6451ea88fd6e87626170cfc740f233ddbeb6cac8eefe5c95bc1756f10556df88               88 Release
+Changelogs: https://ldddns.arnested.dk/changelog?path=@CHANGEPATH@
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEOaW5aMP09wCi81cVnwaxeMQIvd4FAmnmnhMACgkQnwaxeMQI
+vd4X0Qv8D2JPzA6+2DIX+8HbC36eIv3Eeft1IOkhQXkkoeQQDnCXVo31Aiz4AW0q
+FWTyZ4FaJf+5/osP/5+n94W7ENE6+I7dBbr8l/fk6PbbpoR//wi+nQBsDlRCps1a
+Z4PS+1SZFbWjHiZArr9BW0VoPq9SMtNPgyeYujaE/nFRhfqzNauRPe8oyxZm6gPv
+rBClUvmSRuvLuALUt56GPFApbmiDSH4dI7WiOMkd6mI9noiqPd76VLOg8XfGrMqp
+Aa+QgyyWDxWqki0Lb1+msZZW6ie56CgcrsMQPAJiCpX4MmyvDQ4M5PCEE4F1GTOt
+e7rZ/AhNzBPpnmkeeNrYKi5K6cKRvURaKYP8AkulbQgIQ8Y0gGDv+ykgp/x955SH
+eX9jA9fYLGoWoAG84TiwITX3hXUb7l/Vu7/pHGZtEV+GYo2MjIpNB36jOSBSjxMw
+fRmqhRpYr+HekNuRsvkj2HLBm8TdigtZnB+oQXCBHO/dmSTE464RL5WN3447wL4L
+vX+f/8Jx
+=56JL
+-----END PGP SIGNATURE-----
